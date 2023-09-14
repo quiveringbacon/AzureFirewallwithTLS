@@ -5,6 +5,6 @@ This creates a resource group, a hub vnet with an Azure firewall with TLS inspec
 The topology will look like this:
 ![image](https://github.com/quiveringbacon/AzureFirewallwithTLS/assets/128983862/8056ef32-5b92-4fc2-a4eb-3d0e51166b27)
 
-You can run Terraform right from the Azure cloud shell by cloning this git repository with "git clone https://github.com/quiveringbacon/AzureVPNwithFW.git ./terraform".
+You can run Terraform right from the Azure cloud shell by cloning this git repository with "git clone https://github.com/quiveringbacon/AzureFirewallwithTLS.git ./terraform".
 
 Then, "cd terraform" then, "terraform init" and finally "terraform apply -auto-approve" to deploy.
